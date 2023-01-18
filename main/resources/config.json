@@ -1,0 +1,146 @@
+{
+  "raends": {
+    "randObjects": [
+      {
+        "name": "&dBruchsteinstufe",
+        "material": "COBBLESTONE_SLAB"
+      },
+      {
+        "name": "&dSteinstufe",
+        "material": "STONE_SLAB"
+      },
+      {
+        "name": "&dSteinziegelstufe",
+        "material": "STONE_BRICK_SLAB"
+      },
+      {
+        "name": "&dZiegelstufe",
+        "material": "BRICK_SLAB"
+      },
+      {
+        "name": "&dEichenholzstufe",
+        "material": "OAK_SLAB"
+      },
+      {
+        "name": "&dSchwarzeichenholzstufe",
+        "material": "DARK_OAK_SLAB"
+      },
+      {
+        "name": "&dNetherziegelstufe",
+        "material": "NETHER_BRICK_SLAB"
+      },
+      {
+        "name": "&dSandsteinstufe",
+        "material": "SANDSTONE_SLAB"
+      },
+      {
+        "name": "&dRote Sandsteinstufe",
+        "material": "RED_SANDSTONE_SLAB"
+      },
+      {
+        "name": "&dRoter Teppich",
+        "material": "RED_CARPET"
+      },
+      {
+        "name": "&dBlauer Teppich",
+        "material": "BLUE_CARPET"
+      },
+      {
+        "name": "&dHellgruener Teppich",
+        "material": "LIME_CARPET"
+      },
+      {
+        "name": "&dGelber Teppich",
+        "material": "YELLOW_CARPET"
+      },
+      {
+        "name": "&dHellblauer Teppich",
+        "material": "LIGHT_BLUE_CARPET"
+      },
+      {
+        "name": "&dVioletter Teppich",
+        "material": "PURPLE_CARPET"
+      },
+      {
+        "name": "&dOranger Teppich",
+        "material": "ORANGE_CARPET"
+      },
+      {
+        "name": "&dRosa Teppich",
+        "material": "PINK_CARPET"
+      },
+      {
+        "name": "&dSchwarzer Teppich",
+        "material": "BLACK_CARPET"
+      },
+      {
+        "name": "&dGlowstone",
+        "material": "GLOWSTONE"
+      },
+      {
+        "name": "&dremoveRand",
+        "material": "BARRIER"
+      },
+      {
+        "name": "&dObsidian",
+        "material": "OBSIDIAN"
+      },
+      {
+        "name": "&dMelon",
+        "material": "MELON"
+      },
+      {
+        "name": "&dSponge",
+        "material": "SPONGE"
+      },
+      {
+        "name": "&dBookShelf",
+        "material": "BOOKSHELF"
+      },
+      {
+        "name": "&dSeaLantern",
+        "material": "SEA_LANTERN"
+      },
+      {
+        "name": "&dGoldBlock",
+        "material": "GOLD_BLOCK"
+      },
+      {
+        "name": "&dDiamondBlock",
+        "material": "DIAMOND_BLOCK"
+      },
+      {
+        "name": "&dEmeraldBlock",
+        "material": "EMERALD_BLOCK"
+      },
+      {
+        "name": "&dBeacon",
+        "material": "BEACON"
+      },
+      {
+        "name": "&dGlas",
+        "material": "GLASS"
+      },
+      {
+        "name": "&dSeelensand",
+        "material": "SOUL_SAND"
+      },
+      {
+        "name": "&dLeuchtender Kuerbis",
+        "material": "JACK_O_LANTERN"
+      },
+      {
+        "name": "&dPackeis",
+        "material": "PACKED_ICE"
+      },
+      {
+        "name": "&dQuartz Block",
+        "material": "QUARTZ_BLOCK"
+      },
+      {
+        "name": "&dHellblaues Glas",
+        "material": "LIGHT_BLUE_STAINED_GLASS"
+      }
+    ]
+  }
+}
